@@ -1,6 +1,7 @@
 # Shirakami
 
 shirakami is command that shorten long url of amazon.
+Support only region in Japan.
 
 # Usage
 

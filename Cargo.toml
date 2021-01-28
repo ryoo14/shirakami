@@ -1,9 +1,11 @@
 [package]
 name = "shirakami"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["ryoo14 <anana12185@gmail.com>"]
 edition = "2018"
 default-run = "shirakami"
+description = "shirakami is command that shorten long url of amazon."
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
